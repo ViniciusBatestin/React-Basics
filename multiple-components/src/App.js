@@ -3,7 +3,7 @@ import Card from './component/Card.js'
 
 function App() {
   return (
-    <div className="">
+    <div className="App">
       <h1>Task: Add three Card Elements</h1>
       <Card
         h2="First card's h2"
